@@ -37,4 +37,4 @@ My hobby in short is learning, I love learning new skills and learning new knowl
 
 [Research](https://inspirehep.net/authors/2070354) 
 
-[![MIT](https://img.shields.io/badge/-My%20Personal%20Website-blue)](https://sites.google.com/view/shivasankar/home) 
+[![MIT](https://img.shields.io/badge/-My%20Personal%20Website-blue)](https://shivasankarka.github.io/) 
