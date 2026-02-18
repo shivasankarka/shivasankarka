@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+General Kenobi~
+...Oh, My bad, wrong galaxy. 
 
-I am **ShivaSankar**, a PhD student at Hokkaido University, Japan doing research in the intersections of Theoretical particle physics, Cosmology, Astrophysics and deep learning. 
+In this galaxy, I am **ShivaSankar**, a PhD student at Hokkaido University, Japan doing research in the intersections of Theoretical particle physics, Cosmology, Astrophysics and deep learning. 
 
 ## 🔬Research Interests
 Briefly, my main research directions include:
@@ -24,7 +26,9 @@ Briefly, my main research directions include:
 - Black hole physics, Supernovas, Blazars, AGNs and other astrophysical objects. 
 - Physics of deep learning & Interpretability.
 
-I work on a variety of topics because I genuinely believe interdisciplinary research is key to unlocking the mysteries of the universe (or the multiverse if you’re from that gang). It’s fun to connect the dots. To find physics where no one thought to look. To move concepts across fields and see what breaks or what beautifully unifies. To be concious and have the ability the admire the inner workings of this beautiful universe at every level is a true blessing and I hope to embrace it every day of my life. 
+I work on a variety of topics because I genuinely believe interdisciplinary research is key to unlocking the mysteries of the universe (or the multiverse if you’re from that gang). It’s fun to connect the dots. To find physics where no one thought to look. To move concepts across fields and see what breaks or what beautifully unifies. 
+
+> To be concious and have the ability the admire the inner workings of this beautiful universe at every level is a true blessing and I hope to embrace it every day of my life. 
 
 ## 💻 Coding & Building (or breaking)
 I love coding (I used to hate it though, I underwent a phase transition somewhere along the way lol). 
@@ -42,6 +46,7 @@ I love learning new skills and learning new knowledge and inevitably connecting 
 - Cinematography
 - 弓道 (Japanese archery)
 - 書道 (Calligraphy)
+
 ...and the list goes on. 
 
 ## Currently working on
@@ -58,13 +63,9 @@ I’m currently splitting my time between research and building projects in Mojo
 
 I’m also working on a few Rust 🦀 projects. I plan to go deeper into Rust in 2026 and what better way to learn than by building a real useful project! I also hope to get my hands dirty again with embedded systems this year. I used to love tinkering with microcontrollers and such as a kid, and I’ve been meaning to return to it, especially now that I can afford the hardware with the adult money and childish curiosity xD.
 
-💬 If you would like to talk with me about Physics, Life, Coding, or literally anything at all, feel free to drop me a message at my email. Feel free to check my webpage and my Research profile at, 
+💬 If you would like to talk with me about Physics, Life, Coding, or literally anything at all, feel free to drop me a message at my email. Feel free to check my webpage, my Research profile (my research papers) or Instagram (my photography, videography works) at, 
 
-<p align="left">
-  <a href="[https://shivasankarka.github.io/](https://shivasankarka.github.io/)">
-    <img src="https://img.shields.io/badge/Webpage-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="[https://inspirehep.net/authors/2070354](https://inspirehep.net/authors/2070354)">
-    <img src="https://img.shields.io/badge/Research_Profile-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
+
+[Personal website](https://shivasankarka.github.io/)
+
+[Research Profile](https://inspirehep.net/authors/2070354)
